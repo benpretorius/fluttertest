@@ -1,0 +1,11 @@
+{
+  "accidents": [
+    {
+      "id": 1,
+      "title": "test"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
